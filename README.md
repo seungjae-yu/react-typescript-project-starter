@@ -2,6 +2,10 @@
 프로젝트 시작할때마다 반복해서 설정하기 번거로우니 미리 세팅해두고 가져다 쓰자.  
 It's troublesome to set it up repeatedly whenever the project starts, so let's set it up in advance and use it.
 
+***
+단계별 내용 : https://seungjae-yu.github.io/TIL/ReactStarter/00_project_desc.html
+***
+
 install packages
 - react
 - typescript
@@ -18,7 +22,8 @@ install packages
 - TypeScript tsconfig 기본 설정
 
 ### 3. Redux
-- Redux rootReducer 및 reducer 기본 틀 잡아두기
+- Redux rootReducer 설정 및 index.tsx에 적용
+- [reducer를 vscode snippets으로 생성](https://seungjae-yu.github.io/TIL/ReactStarter/04_redux.html)
 
 ### 4. Jest
 - Jest 기본 세팅 및 TypeScript 설정
