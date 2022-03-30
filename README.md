@@ -1,14 +1,14 @@
-# React-TypeScript-Redux-Jest-Starter
+# React TypeScript Project Starter
 프로젝트 시작할때마다 반복해서 설정하기 번거로우니 미리 세팅해두고 가져다 쓰자.
 
-## React
+## 1. React
 -  create react-app으로 프로젝트 생성 후 불필요한 파일 삭제
 
-## TypeScript
+## 2. TypeScript
 - TypeScript tsconfig 기본 설정
 
-## Redux
+## 3. Redux
 - Redux rootReducer 및 reducer 기본 틀 잡아두기
 
-## Jest
+## 4. Jest
 - Jest 기본 세팅 및 TypeScript 설정
