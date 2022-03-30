@@ -2,7 +2,14 @@
 프로젝트 시작할때마다 반복해서 설정하기 번거로우니 미리 세팅해두고 가져다 쓰자.  
 It's troublesome to set it up repeatedly whenever the project starts, so let's set it up in advance and use it.
 
-## React / TypeScript / Redux / Jest / Material UI / Styled Component
+install packages
+- react
+- typescript
+- Redux / react-redux
+- Jest / ts-jest
+- Material UI
+- Styled Component
+- immer
 
 ### 1. React
 -  create react-app으로 프로젝트 생성 후 불필요한 파일 삭제
