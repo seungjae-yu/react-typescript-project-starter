@@ -1,5 +1,5 @@
-import sampleReducer, { sampleState } from './sampleReducer';
 import { combineReducers } from "redux";
+import sampleReducer, { sampleState } from "./sampleReducer";
 
 export interface StoreState {
     //reducer 추가시 아래 형태로 추가
